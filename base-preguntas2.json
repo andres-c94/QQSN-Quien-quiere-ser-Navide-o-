@@ -1,0 +1,375 @@
+[{
+    "categoria": "",
+    "pregunta": "¿Cómo se llama el evento en el que estamos? ",
+    "respuesta": "MEGA EVENTO ENERGÉTICO PRESENCIAL",
+    "incorrecta1": "EVENTO ENERGÉTICO PRESENCIAL",
+    "incorrecta2": "MEGA EVENTO ENERGÉTICO DE ECUADOR",
+    "incorrecta3": "MEGA EVENTO ENERGÉTICO",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuál es el lema de Esri para la sostenibilidad?",
+    "respuesta": "Creando un futuro sostenible",
+    "incorrecta1": "Buscando un futuro sostenible",
+    "incorrecta2": "Sotenibilidad para todos",
+    "incorrecta3": "Creando un futuro para todos",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿En qué tipo de plataformas funcionan los softwares de Esri?",
+    "respuesta": "Escritorio, Móviles, En la nube y  servidores locales",
+    "incorrecta1": "Escritorio y Móviles",
+    "incorrecta2": "Escritorio, Móviles y En la nube ",
+    "incorrecta3": "Solo escritorio",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Las soluciones de escritorio que ofrece Esri son:",
+    "respuesta": "ArcGIS Desktop (ArcGIS Pro + ArcMap)",
+    "incorrecta1": "ArcGIS Enterprise",
+    "incorrecta2": "ArcGIS Online",
+    "incorrecta3": "Survey123",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "La infraestructura geoespacial es un:",
+    "respuesta": "Sistema de sistemas",
+    "incorrecta1": "Componente de software ",
+    "incorrecta2": "Sitema de programación",
+    "incorrecta3": "Todas las anteriores",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Qué programa de ArcGIS utiliza drones para generar las visualizaciones?",
+    "respuesta": "Site Scan for GIS",
+    "incorrecta1": "ArcGIS Velocity",
+    "incorrecta2": "ArcGIS Enterprise",
+    "incorrecta3": "ArcGIS Storymaps",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuál es la función de ArcGIS survey 123?",
+    "respuesta": "Captura de datos basada en formularios",
+    "incorrecta1": "Utilización de drones para el levantamiento de terrenos",
+    "incorrecta2": "Contenido de imágenes que ayudan al entendimiento del terreno",
+    "incorrecta3": "Todas las anteriores",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "ArcGIS Field Maps es una solución para",
+    "respuesta": "Visualización y captura de datos en campo",
+    "incorrecta1": "Generar tableros de control",
+    "incorrecta2": "Realizar análisis espacial de datos",
+    "incorrecta3": "Ninguna de las anteriores",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿Cuáles son los tres ejes de la industria sostenible?",
+    "respuesta": "La economía, la sociedad y el medio ambiente",
+    "incorrecta1": "La economía, la sociedad y el estado",
+    "incorrecta2": "El ahorro de energí, la sociedad y el medio ambiente",
+    "incorrecta3": "La tecnología, la sociedad y el medio ambiente",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿Qué plug-in de AutoCAD nos permite la interoperabilidad entre AutoCAD y los sistemas de ArcGIS?",
+    "respuesta": "ArcGIS for AutoCAD",
+    "incorrecta1": "ArcGIS for AutoDesk",
+    "incorrecta2": "ArcGIS for BIM",
+    "incorrecta3": "Ninguna de las anteriores",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cual programa de ArcGIS crea historias inspiradoras e inmersivas combinando texto, mapas interactivos y otros contenidos multimedia?",
+    "respuesta": "ArcGIS Storymaps",
+    "incorrecta1": "ArcGIS Velocity",
+    "incorrecta2": "ARcGIS Field Maps",
+    "incorrecta3": "ArcGIS Image",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Qué significa GDB?",
+    "respuesta": "Base de Datos Geografica",
+    "incorrecta1": "Base de datos Geológica",
+    "incorrecta2": "Base de datos Relacional",
+    "incorrecta3": "Ninguna de las anteriores",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Qué significan las siglas SIG?",
+    "respuesta": "Sistemas de información geográfica",
+    "incorrecta1": "Sistemas de información geoespacial",
+    "incorrecta2": "Sistemas de interpretación geográfica",
+    "incorrecta3": "Sistemas de información Geológica",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿En qué industrias se pueden aplicar los SIG?",
+    "respuesta": "Todas las anteriores",
+    "incorrecta1": "Hidrocarburos",
+    "incorrecta2": "Mineria",
+    "incorrecta3": "Renovables",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿Cuál de estos no es un software de Esri?",
+    "respuesta": "Ninguna de las anteriores",
+    "incorrecta1": "ArcGIS Enterprise",
+    "incorrecta2": "ArcGIS Online",
+    "incorrecta3": "ArcGIS Pro",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "ArcGIS Online es un:____",
+    "respuesta": "Software as a service",
+    "incorrecta1": "Software de Escritorio",
+    "incorrecta2": "Aplicación de Campo",
+    "incorrecta3": "Ninguna de las anteriores",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuál es la extensión qué nos permite procesar imágenes en ArcGIS Pro? ",
+    "respuesta": "Image Analyst",
+    "incorrecta1": "Imagery for ArcGIS Pro",
+    "incorrecta2": "Image expert",
+    "incorrecta3": "Image extension",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Los SIG son ________ ",
+    "respuesta": "Todas las anteriores",
+    "incorrecta1": "Integradores de información",
+    "incorrecta2": "De utilidad para cualquier profesional",
+    "incorrecta3": "Tranversales a todas las industrias",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿Con qué datos puede trabjar el sistema ArcGIS?",
+    "respuesta": "Todas las anteriores",
+    "incorrecta1": "Imágenes y tabulares",
+    "incorrecta2": "No estructurados y Vectoriales",
+    "incorrecta3": "IoT y 3D",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿Cuál es el nombre de la charla que Esri expuso en el evento?",
+    "respuesta": "SIG para la Sostenibilidad",
+    "incorrecta1": "Industria Sostenible",
+    "incorrecta2": "Creando un futuro Sostenible",
+    "incorrecta3": "Sostenibilidad y los SIG",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuál es el principal puerto pesquero?",
+    "respuesta": "Manta",
+    "incorrecta1": "Guayaquil",
+    "incorrecta2": "Puerto López",
+    "incorrecta3": "Esmeraldas",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuál es el principal puerto marítimo del Ecuador?",
+    "respuesta": "Guayaquil",
+    "incorrecta1": "Manta",
+    "incorrecta2": "Puerto López",
+    "incorrecta3": "Esmeraldas",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuál es la ciudad más grande del Ecuador?",
+    "respuesta": "Guayaquil",
+    "incorrecta1": "Quito",
+    "incorrecta2": "Santa Elena",
+    "incorrecta3": "Esmeraldas",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿En dónde se descubrió el 1er pozo petrolero en Ecuador?",
+    "respuesta": "Ancón",
+    "incorrecta1": "Coca",
+    "incorrecta2": "Lago Agrio",
+    "incorrecta3": "Macas",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cómo se llama el ecuatoriano que participó en 1985 en el Festival de la OTI?",
+    "respuesta": "Jesús Fichamba",
+    "incorrecta1": "Juan Fernando Velasco",
+    "incorrecta2": "Julio Jaramillo",
+    "incorrecta3": "Carlota Jaramillo",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Qué nacionalidad es el Papa?",
+    "respuesta": "argentino",
+    "incorrecta1": "italiano",
+    "incorrecta2": "Polaco",
+    "incorrecta3": "ruso",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Qué grupo musical cantaba 'Hey Jude'?",
+    "respuesta": "The Beatles",
+    "incorrecta1": "Queen",
+    "incorrecta2": "Camilo Sesto",
+    "incorrecta3": "Metallica",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuántos lados tiene un hexágono?",
+    "respuesta": "6",
+    "incorrecta1": "5",
+    "incorrecta2": "2",
+    "incorrecta3": "3",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿En qué año llegó el ser humano a la luna?",
+    "respuesta": "1969",
+    "incorrecta1": "1990",
+    "incorrecta2": "1968",
+    "incorrecta3": "1984",
+    "imagen": "",
+    "objectFit": "cover"
+
+
+},
+{
+    "categoria": "",
+    "pregunta": "¿Cuál es el órgano más grande del cuerpo humano?",
+    "respuesta": "piel",
+    "incorrecta1": "cerebro",
+    "incorrecta2": "Corazón",
+    "incorrecta3": "cabeza",
+    "imagen": "",
+    "objectFit": "cover"
+
+
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿ ¿Cuántas estrellas aparecen en la bandera de la República Popular China?",
+    "respuesta": "5",
+    "incorrecta1": "2",
+    "incorrecta2": "1",
+    "incorrecta3": "6",
+    "imagen": "",
+    "objectFit": "cover"
+
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿ Quién fue el primer presidente ecuatoriano del Ecuador?",
+    "respuesta": "Vicente Rocafuerte",
+    "incorrecta1": "Juan José Flores",
+    "incorrecta2": "Jerónimo Carrión",
+    "incorrecta3": "Eloy Alfaro",
+    "imagen": "",
+    "objectFit": "cover"
+
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuál es el metal más caro del mundo?",
+    "respuesta": "Rodio",
+    "incorrecta1": "oro",
+    "incorrecta2": "plata",
+    "incorrecta3": "cobre",
+    "imagen": "",
+    "objectFit": "cover"
+
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Quién fue el compositor de la música  'el Aguacate'?",
+    "respuesta": "César Guerrero Tamayo",
+    "incorrecta1": "Juan Luis Guerra",
+    "incorrecta2": "Julio Jaramillo",
+    "incorrecta3": "Juan Fernando Velasco",
+    "imagen": "",
+    "objectFit": "cover"
+
+}
+
+]

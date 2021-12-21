@@ -244,7 +244,7 @@ function oprimir_btn(i) {
       document.getElementById(cad).style.display = "block";
     }, 3500);
 
-    if (preguntas_correctas == 5) {
+    if (preguntas_correctas == 3) {
       document.getElementById("siguiente").style.display = "none";
       setTimeout(() => {
         finjuegoganador();
@@ -286,7 +286,7 @@ function oprimir_btn(i) {
       document.getElementById(cad).style.display = "block";
     }, 3500);
 
-    if (preguntas_correctas == 5) {
+    if (preguntas_correctas == 3) {
       document.getElementById("siguiente").style.display = "none";
       setTimeout(() => {
         finjuegoganador();

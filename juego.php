@@ -58,17 +58,17 @@ if($session == null || $session= "" ){
 
 <div id="ventana4" class="ventana4">
 <table class="default">
-<tr>
+<!-- <tr>
   <td class="amarillo">P5 :</td>
   <td id="p5" class="amarillo" style="display: none">Premio Mayor</td>
 </tr>
 <tr>
   <td >P4 :</td>
   <td id="p4" style="display: none">Pregunta 4</td>
-</tr>
+</tr> -->
 <tr>
   <td class="amarillo">P3 :</td>
-  <td id="p3" class="amarillo" style="display: none">Primer premio</td>
+  <td id="p3" class="amarillo" style="display: none">¡Has ganado!</td>
 </tr>
 <tr>
   <td >P2 :</td>

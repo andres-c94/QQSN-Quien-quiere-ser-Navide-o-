@@ -134,7 +134,7 @@ function fiftyFifty() {
   for (let p = 0; p < 4; p++) {
     if (posibles_respuestas[p] == pregunta.respuesta) {
       je = p;
-      btn_correspondiente[p].style.setProperty("--color-secundario", "#18a5c9");
+      btn_correspondiente[p].style.setProperty("--color-secundario", "#008FB3");
     } else if (posibles_respuestas[p] !== pregunta.respuesta) {
       btn_correspondiente[p].style.visibility = "hidden";
     }
@@ -184,9 +184,9 @@ function finjuegoganador() {
     // text: "Ha perdido Quién quiere ser Geográfico!!!, suerte para la proxima..",
     html: '<h2 style="color: white;">¡Felicidades! Ha ganado "¿Quién quiere ser Geográfico?"</h2>',
     confirmButtonText: "Cerrar",
-    background: "#2064A8",
+    background: "#2A619B",
     showConfirmButton: true,
-    confirmButtonColor: "#164675",
+    confirmButtonColor: "#0056B3",
     imageUrl:'img/feliz2.png',
     imageWidth: "110px",
     imageHeight:"110px"
@@ -205,9 +205,9 @@ function finjuegoperdedor() {
     // text: "Ha perdido Quién quiere ser Geográfico!!!, suerte para la proxima..",
     html: '<h2 style="color: white;">Ha perdido "¿Quién quiere ser Geográfico?" Suerte para la próxima...</h2>',
     confirmButtonText: "Cerrar",
-    background: "#2064A8",
+    background: "#2A619B",
     showConfirmButton: true,
-    confirmButtonColor: "#164675",
+    confirmButtonColor: "#0056B3",
     imageUrl:'img/triste2.png',
     imageWidth: "110px",
     imageHeight:"110px"
@@ -337,7 +337,7 @@ function siguiente() {
 
 function reiniciar() {
   for (const btn of btn_correspondiente) {
-    btn.style.setProperty("--color-secundario", "#18a5c9");
+    btn.style.setProperty("--color-secundario", "#008FB3");
     btn.style.visibility = "";
   }
   escogerPreguntaAleatoria();

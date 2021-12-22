@@ -13,7 +13,7 @@ height: 254px;
 margin-top: auto;
 margin-bottom: auto;
 width: 400px;
-background-color: rgba(0,0,0,0.5) !important;
+background-color: rgba(9, 18, 123) !important;
 }
 
 .social_icon span{
@@ -39,7 +39,7 @@ top: -45px;
 
 .input-group-prepend span{
 width: 50px;
-background-color: #18a5c9;
+background-color: #00CCFF;
 color: rgb(255, 255, 255);
 border:0 !important;
 }
@@ -81,10 +81,6 @@ color: white;
 margin-left: 4px;
 }
 
-
-
-
-
 @charset "UTF-8";
 ::-moz-focus-inner {
   border: 0;
@@ -95,8 +91,8 @@ margin-left: 4px;
   }
 
   body {
-   /* background: #302b63;*/
-    background: linear-gradient(70deg, #021f43, #164675, #2f9d40, #375c3d) no-repeat;
+    /* background: linear-gradient(70deg, #021f43, #164675, #2f9d40, #375c3d) no-repeat; */
+    background-image: url(../img/fondo.png);
     background-size: cover;
     padding: 0;
     margin: 0;
@@ -160,7 +156,7 @@ margin-left: 4px;
     margin: 10px;
     cursor: pointer;
     border-radius: 25px;
-    background: #164675;
+    background: #008FB3;
     border-color: rgb(255, 255, 255);
     border-style: solid ;
     
@@ -181,14 +177,14 @@ margin-left: 4px;
     display: flex;
   }
   .btnx {
-    color: white;
+    color: #FFFFFF;
     width: 90px;
     height: 50px;
     border-radius: 20%;
-    background: #18a5c9;
+    background: #008FB3;
     border-radius: 20px;
     margin: 5px;
-    border-color: #ffffff;
+    border-color: #FFFFFF;
   }
 
   .btnxingreso{
@@ -300,8 +296,8 @@ margin-left: 4px;
 }
 
 :root {
-  --color-base: #18a5c9;
-  --color-secundario: #18a5c9;
+  --color-base: #008FB3;
+  --color-secundario: #008FB3;
   --color-terciario: #dbc818;
   --color-terciarioB: #cab716;
   --margin-top: 10px;
@@ -501,7 +497,7 @@ margin-left: 4px;
 }
 
 .ventana{
-  background: #2e79a6;
+  background: #2A619B;
   width: 73%;
   height: 56%;
   color: blanchedalmond;

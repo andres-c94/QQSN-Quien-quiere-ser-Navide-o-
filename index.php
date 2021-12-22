@@ -19,9 +19,9 @@
   <div class="menu">
     <button class="btnx" id="ayuda" data-toggle="tooltip" data-placement="bottom" title="Ingrese Usuario y Contraseña para iniciar el juego">Ayuda <i class="fas fa-question-circle"></i></button>
   </div>
-  <div class="logo2">
+  <!-- <div class="logo2">
     <img src="img/logoesri.png" width=100%>
-  </div>
+  </div> -->
   <center>
   <!-- <div class="logo3">
     <img src="img/cuelogo1.png" width=110%>
@@ -32,9 +32,15 @@
       <img src="img/logo2.png" width=26.5%>
     </div>-->
     <center>
-    <div class="logo">
+      <br> <br>
+      <br> <br>
+      <br> <br>
+      <br> <br>
+      <br> <br>
+      <br> <br>
+    <!-- <div class="logo">
       <img src="img/logoqqsg.png" width=32.5%>
-    </div>
+    </div> -->
     </center>
   </div>
   <script src="index.js"></script>
@@ -89,13 +95,15 @@
   
 </body>
 <div>
-  <footer class="bg-light text-center text-lg-start" style="height: 10%;">
+
+  <!-- <footer class="bg-light text-center text-lg-start" style="height: 10%;">
     <div class="text-center p-3" style= "background: linear-gradient(70deg, #021f43, #164675, #2f9d40, #375c3d) no-repeat;">
       <p style="color: #d5d5d5; font-size: 15px; height: 20rem;" align="center" >
         Diseñado por el Semillero de Innovación Geográfica GeoGeeks - 2021
       </p>
     </div>
-  </footer>
+  </footer> -->
+
 </div>
 <audio id="audio" volume="0.1" src="song1.mp3" autoplay loop="-1">
   <script>
